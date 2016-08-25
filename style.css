@@ -1,0 +1,147 @@
+body {
+  background-color: gray;
+}
+
+#app {
+  margin-top: 40px;
+  padding-top: 20px;
+  padding-left: 5px;
+  width: 450px;
+  height: 450px;
+  min-width: 450px;
+  min-width: 450px;
+}
+
+#green {
+  position: relative;
+  border-style: solid;
+  border-width: 20px;
+  border-top-left-radius: 100%;
+  width: 200px;
+  height: 200px;
+  min-width: 200px;
+  min-width: 200px;
+  background-color: #4dffa6;
+}
+
+#yellow {
+  position: relative;
+  border-style: solid;
+  border-bottom-left-radius: 100%;
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  min-width: 200px;
+  min-width: 200px;
+  background-color: #ffff80;
+}
+
+#blue {
+  position: relative;
+  border-style: solid;
+  border-bottom-right-radius: 100%;
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  min-width: 200px;
+  min-width: 200px;
+  background-color: #668cff;
+}
+
+#red {
+  position: relative;
+  border-style: solid;
+  border-top-right-radius: 100%;
+  border-width: 20px;
+  width: 200px;
+  height: 200px;
+  min-width: 200px;
+  min-width: 200px;
+  background-color: #ff6666;
+}
+
+#center {
+  z-index: 10;
+  margin-left: 100px;
+  margin-top: 100px;
+  position: absolute;
+  border-style: solid;
+  border-radius: 100%;
+  border-width: 10px;
+  background-color: white;
+  width: 200px;
+  height: 200px;
+  min-width: 200px;
+  min-width: 200px;
+  padding: 20px 30px 0px 10px;
+}
+
+#simon {
+  padding-left: 30px;
+  font-weight: bold;
+  font-size: 200%;
+  font-style: italic;
+}
+
+#display {
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 2px;
+  border-color: black;
+  
+  background-color: gray;
+  width: 50px;
+  height: 40px;
+  min-width: 50px;
+  min-heigth: 40px;
+  color: red;
+  font-size: 200%;
+}
+
+#startButton {
+  margin-left: 10px;
+  margin-top: 20px;
+  background-color: red;
+  border-radius: 100%;
+  height: 20px;
+  width: 20px;
+}
+
+#strictButton {
+  margin-left: 10px;
+  background-color: yellow;
+  border-radius: 100%;
+  height: 20px;
+  width: 20px;
+}
+
+#indicatorButton {
+  margin-left: 10px;
+  border-radius: 100%;
+  height: 15px;
+  width: 1px;
+}
+
+#switch-checkbox {
+  padding-left: 40px;
+}
+
+.red {
+  color: red;
+}
+
+.green {
+  color: green;
+}
+
+.blue {
+  color: blue;
+}
+
+.yellow {
+  color: yellow;
+}
+
+.redBackground {
+  background-color: red;
+}
