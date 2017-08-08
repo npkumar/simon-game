@@ -1,8 +1,8 @@
 # simon-game
 https://en.wikipedia.org/wiki/Simon_(game)
 
-##Demo
+## Demo
 https://codepen.io/getnpk/full/wWBbLg/
 
-##Note
+## Note
 Please add required thrid party css and js files when running locally. Thanks!
